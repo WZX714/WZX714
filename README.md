@@ -1,6 +1,6 @@
 # About me
 
-- I'm an eighth-grade-boy.
+- I'm an ninth-grade-boy.
 - Learning math and programming(only c++) are my hobbies,I'm glad to discuss about them.
 - I'm a little shy.
 - I'm new to GitHub,so could you be more patient if I do anything incorrect?
